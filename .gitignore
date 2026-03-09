@@ -1,0 +1,33 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.Renviron
+
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+Manifest.toml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+
+# macOS
+.DS_Store
+
+# Data files — do not upload these
+*.csv
+*.xlsx
+*.txt
+*.tsv
